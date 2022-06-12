@@ -1,12 +1,3 @@
-# plotting cluster simulation locations
-delta = 12
-k=10
-d = 2
-mus = outer(rep.int(1L, k), seq.int(d)) + delta * seq.int(0, k - 1L)
-plot(mus)
-
-
-
 # real life example
 alpha=0.05
 K=10
