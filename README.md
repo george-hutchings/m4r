@@ -1,7 +1,6 @@
 # Statistical Tests for the Number of Clusters in Data
 
-Code and results accompanying my M4R (Mathematics fourth-year research) dissertation,
-[*Statistical Tests to Detect the Number of Clusters Present in the Data*](https://github.com/george-hutchings/M4R-report).
+Code and results accompanying my M4R (Mathematics fourth-year research) dissertation.
 
 ## Overview
 
