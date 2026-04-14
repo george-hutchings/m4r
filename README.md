@@ -1,5 +1,5 @@
 # m4r
-code and results for my m4r project
+code and results for my m4r project - undergraduate research project.
 
 -The folder `code for plots (not simulation study)` contains the the code used to produce the figures pertaining to the gmm example, and the importance sampling example.
 
